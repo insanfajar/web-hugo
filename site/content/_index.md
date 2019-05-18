@@ -3,7 +3,7 @@ title: INSAN.ID
 subtitle: opisboy. bike to work. panda.
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Ehlo Wrold!
+  heading: Ehlo World!
   text: >-
     Bersama Panda berteduh di kota Bandung, menghabiskan sisa waktu agar selalu
     bahagia.
